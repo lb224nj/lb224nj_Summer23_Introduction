@@ -1,4 +1,4 @@
-``` bash
+```javascript
 let number = 27;
 
 // if-statement 1
